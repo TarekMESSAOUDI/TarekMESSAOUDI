@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently study on **[Esprit](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently study on **[Esprit](https://esprit.tn/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
