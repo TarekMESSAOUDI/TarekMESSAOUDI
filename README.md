@@ -48,22 +48,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href=""><img alt="Tarek's Github Stats"  /></a>
-  <a href=""><img alt="Subham Raoniar's Top Languages" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href=""><img alt="Tarek's Activity Graph" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
