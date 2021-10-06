@@ -1,20 +1,18 @@
 <a href="#"><img border-color="red" width="100%" height="auto" src="https://github.com/TarekMESSAOUDI/Portfolio/blob/main/Capture.JPG" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tarek</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I am a Software Engineer from Tunisia.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I am a software engineering student
 
--  I am currently studying at **[Esprit](https://esprit.tn/)**
+- 🌱 I am currently studying at **[Esprit](https://esprit.tn/)**
 
--  I studied in **[ISET Radès](http://www.universite.tn/Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-rades.html)**
+- 👯 I studied in **[ISET Radès](http://www.universite.tn/Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-rades.html)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+-  I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
