@@ -14,9 +14,9 @@
 
 -  I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://tarekmessaoudi.github.io/Portfolio/)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **Tarek.messaoudi@esprit.tn**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
