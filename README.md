@@ -68,9 +68,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/messaoudi-tarek/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px" height="40px"/></a>
+<a href = "https://www.linkedin.com/in/messaoudi-tarek/"><img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width="40px" height="40px"/></a>
 <a href = "https://www.facebook.com/tarek.mejri.378/"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="40px" height="40px"/></a>
-<a href = "https://www.instagram.com/tarek_messaoudi_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40px" height="40px"/></a>
+<a href = "https://www.instagram.com/tarek_messaoudi_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" width="40px" height="40px"/></a>
 
 </p>
 
