@@ -69,7 +69,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/messaoudi-tarek/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/tarek.mejri.378/"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="40px" height="40px"/></a>
+<a href = "https://www.facebook.com/tarek.mejri.378/"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="40px" height="35px"/></a>
 <a href = "https://www.instagram.com/tarek_messaoudi_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
