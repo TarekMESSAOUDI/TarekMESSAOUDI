@@ -6,7 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently study on **[Esprit](https://esprit.tn/)**
+- 🔭 I am a software engineering student
+
+-  I am currently studying at **[Esprit](https://esprit.tn/)**
+
+-  I studied in **[ISET Radès](http://www.universite.tn/Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-rades.html)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
