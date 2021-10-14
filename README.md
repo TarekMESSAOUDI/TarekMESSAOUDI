@@ -47,7 +47,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tarek's streak"/>
     </a>
 </p>
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TarekMESSAOUDI)]
 
 
 ## Connect with me:
@@ -58,6 +57,10 @@
 <a href = "https://www.instagram.com/tarek_messaoudi_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" width="40px" height="40px"/></a>
 
 </p>
+
+<P>    [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TarekMESSAOUDI&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TarekMESSAOUDI&langs_count=5&theme=tokyonight)]()
+</P>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
