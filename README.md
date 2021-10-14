@@ -56,6 +56,8 @@
 <a href = "https://www.facebook.com/tarek.mejri.378/"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="40px" height="40px"/></a>
 <a href = "https://www.instagram.com/tarek_messaoudi_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" width="40px" height="40px"/></a>
 
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TarekMESSAOUDI)](https://github.com/TarekMESSAOUDI/github-readme-stats)
+
 </p>
 
 ## ❤ Views and Followers
