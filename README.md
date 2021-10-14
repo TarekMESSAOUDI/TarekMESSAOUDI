@@ -56,13 +56,14 @@
 <a href = "https://www.facebook.com/tarek.mejri.378/"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="40px" height="40px"/></a>
 <a href = "https://www.instagram.com/tarek_messaoudi_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" width="40px" height="40px"/></a>
 
-</p>
 
-<P>    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarekMESSAOUDI&show_icons=true&theme=radical)
-</P>
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+
+    
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarekMESSAOUDI&show_icons=true&theme=radical)
