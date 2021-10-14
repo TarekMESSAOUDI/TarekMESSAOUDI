@@ -65,5 +65,5 @@
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
-    
+    <br>
      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarekMESSAOUDI&show_icons=true&theme=radical)
