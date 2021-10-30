@@ -86,7 +86,24 @@
     <kbd>Tools</kbd>
     <br>
     <br>
-   
+      <a href="https://getbootstrap.com"> 
+        <img width="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+      </a>   
+      <a href="https://postman.com"> 
+        <img width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
+      </a>   
+      <a href="https://git-scm.com/"> 
+        <img width="30" src="https://img.icons8.com/color/48/000000/git.png"/> 
+      </a> 
+      <a href="https://www.jenkins.io"> 
+        <img width="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/> 
+      </a> 
+      <a href="https://www.sonarqube.org/"> 
+        <img width="30" src="https://1.bp.blogspot.com/-ZjWq2g8vY1s/Xvv5AkZgNBI/AAAAAAAACZY/0c6qvZU3rbY4qSiYeVAi4pZBDj0DPcm-gCK4BGAsYHg/s225/ado.png"/> 
+      </a>
+      <a href="https://www.docker.com/"> 
+        <img width="30" src="https://cdn.1min30.com/wp-content/uploads/2018/04/Logo-Docker.jpg"/> 
+      </a>
     </kbd>
  
 </section>
@@ -95,12 +112,7 @@
 
 <p align="left"> 
       
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>   
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://www.sonarqube.org/developer-edition/?gads_campaign=ROW-1-SonarQube&gads_ad_group=SonarQube&gads_keyword=sonar%20code%20quality&gclid=CjwKCAjwkvWKBhB4EiwA-GHjFkEL2PO0RC9PA_EX0cCrr6MAU9u0U04AXFqMduTPzbZ-UQln9v5JLhoCfZ0QAvD_BwE" target="_blank"> <img src="https://1.bp.blogspot.com/-ZjWq2g8vY1s/Xvv5AkZgNBI/AAAAAAAACZY/0c6qvZU3rbY4qSiYeVAi4pZBDj0DPcm-gCK4BGAsYHg/s225/ado.png" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.1min30.com/wp-content/uploads/2018/04/Logo-Docker.jpg" alt="express" width="40" height="40"/> </a>
+    
 </p>
 
 ## 📊 My Github Stats
