@@ -23,22 +23,32 @@
 ## 🚀 Languages and Tools:
 
 <section>
+    
     <kbd>
         <kbd>Frameworks<kbd>
         <br>
         <br>
     </kbd>
+            
+        <br>
+        <br> 
+            
     <kbd>
         <kbd>Programing languages<kbd>
         <br>
+        <br
+           <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    </kbd>
+            
         <br>
-             <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-        </kbd>
+        <br>
+            
     <kbd>
         <kbd>Tools<kbd>
         <br>
         <br>
     </kbd>
+            
 </section>
 
 <p align="left"> 
