@@ -27,7 +27,7 @@
     <kbd>Frameworks</kbd>
     <br>
     <br>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img width="30px" height="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img width="30px" height="30px" background-color="red" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
