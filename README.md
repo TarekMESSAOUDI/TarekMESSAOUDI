@@ -68,16 +68,16 @@
         <img width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
       </a>
       <a href="https://www.mysql.com/"> 
-        <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
+        <img width="30px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
       </a>
       <a href="https://www.mysql.com/"> 
-        <img src="https://img.icons8.com/color/48/000000/php.png"/>
+        <img width="30px" src="https://img.icons8.com/color/48/000000/php.png"/>
       </a>
       <a href="https://www.mysql.com/"> 
-        <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+        <img width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
       </a>
       <a href="https://www.mysql.com/"> 
-        <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
+        <img width="30px"src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
       </a>
     </kbd>
   
