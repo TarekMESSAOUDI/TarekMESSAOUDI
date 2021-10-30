@@ -45,7 +45,7 @@
     <a href="https://github.com/TarekMESSAOUDI/github-readme-stats"><img alt="Tarek's Github Stats" 
        src="https://github-readme-stats.vercel.app/api?username=TarekMESSAOUDI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medamin20&show_icons=true&theme=radical)
+   /* ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medamin20&show_icons=true&theme=radical)*/
    <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
    <img alt="Subham Raoniar's Top Languages"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
