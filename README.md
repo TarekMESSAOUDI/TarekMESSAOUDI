@@ -28,19 +28,19 @@
     <br>
     <br>
     <a href="https://spring.io/projects/spring-boot"> 
-      <img width="45px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
+      <img width="40px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
     </a> 
     <a href="https://nodejs.org"> 
-      <img width="45px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     </a>
     <a href="https://angular.io/"> 
-      <img width="45px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+      <img width="40px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
     </a>
     <a href="https://dotnet.microsoft.com/"> 
-      <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> 
+      <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> 
     </a>
     <ahref="https://symfony.com/"> 
-      <img width="45px" src="https://img.icons8.com/color/48/000000/symfony.png"/> 
+      <img width="40px" src="https://img.icons8.com/color/48/000000/symfony.png"/> 
     </a>
   </kbd>
   
@@ -50,34 +50,34 @@
     <br>
     <br>
       <a href="https://www.w3schools.com/html/"> 
-        <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> 
+        <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> 
       </a>
       <a href="https://www.w3schools.com/css/"> 
-        <img width="45px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+        <img width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
       </a> 
       <a href="https://www.w3schools.com/javaScript/"> 
-        <img width="45px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+        <img width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
       </a>
       <a href="https://www.w3schools.com/javaScript/"> 
-        <img width="45px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+        <img width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
       </a>
       <a href="https://www.java.com"> 
-        <img width="45px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
+        <img width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
       </a>
       <a href="https://www.python.org"> 
-        <img width="45px" src="https://img.icons8.com/color/48/000000/python.png"/>
+        <img width="40px" src="https://img.icons8.com/color/48/000000/python.png"/>
       </a>
       <a href="https://www.mysql.com/"> 
-        <img width="45px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
+        <img width="40px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
       </a>
       <a href="https://www.php.net/"> 
-        <img width="45px" src="https://img.icons8.com/color/48/000000/php.png"/>
+        <img width="40px" src="https://img.icons8.com/color/48/000000/php.png"/>
       </a>
       <a href="https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c"> 
-        <img width="45px" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+        <img width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
       </a>
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> 
-        <img width="45px"src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
+        <img width="40px"src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
       </a>
     </kbd>
   
@@ -87,22 +87,22 @@
     <br>
     <br>
       <a href="https://getbootstrap.com"> 
-        <img width="45px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+        <img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
       </a>   
       <a href="https://postman.com"> 
-        <img width="45px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
+        <img width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
       </a>   
       <a href="https://git-scm.com/"> 
-        <img width="45px" src="https://img.icons8.com/color/48/000000/git.png"/> 
+        <img width="40px" src="https://img.icons8.com/color/48/000000/git.png"/> 
       </a> 
       <a href="https://www.jenkins.io"> 
-        <img width="45px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/> 
+        <img width="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/> 
       </a> 
       <a href="https://www.sonarqube.org/"> 
-        <img width="45px" src="https://1.bp.blogspot.com/-ZjWq2g8vY1s/Xvv5AkZgNBI/AAAAAAAACZY/0c6qvZU3rbY4qSiYeVAi4pZBDj0DPcm-gCK4BGAsYHg/s225/ado.png"/> 
+        <img width="40px" src="https://1.bp.blogspot.com/-ZjWq2g8vY1s/Xvv5AkZgNBI/AAAAAAAACZY/0c6qvZU3rbY4qSiYeVAi4pZBDj0DPcm-gCK4BGAsYHg/s225/ado.png"/> 
       </a>
       <a href="https://www.docker.com/"> 
-        <img width="45px" height="45px" src="https://cdn.1min30.com/wp-content/uploads/2018/04/Logo-Docker.jpg"/> 
+        <img width="40px" height="40px" src="https://cdn.1min30.com/wp-content/uploads/2018/04/Logo-Docker.jpg"/> 
       </a>
     </kbd>
  
