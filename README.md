@@ -27,10 +27,21 @@
     <kbd>Frameworks</kbd>
     <br>
     <br>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img width="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a style="padding-right:8px;" href="https://angular.io/" target="_blank"> <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/> </a>
-
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+      <img width="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
+    </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> 
+      <img width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+    </a>
+    <a style="padding-right:8px;" href="https://angular.io/" target="_blank"> 
+      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/> 
+    </a>
+    <a style="padding-right:8px;" href="https://dotnet.microsoft.com/" target="_blank"> 
+      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> 
+    </a>
+    <a style="padding-right:8px;" href="https://symfony.com/" target="_blank"> 
+      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg"/> 
+    </a>
   </kbd>
   
   
