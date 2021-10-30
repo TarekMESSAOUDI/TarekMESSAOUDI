@@ -46,10 +46,6 @@
 <a href = "https://www.facebook.com/tarek.mejri.378/"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="40px" height="40px"/></a>
 <a href = "https://www.instagram.com/tarek_messaoudi_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" width="40px" height="40px"/></a>
 
-    <a href=>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tarek's streak"/>
-    </a>
-
 
 ## ❤ Views and Followers
 <a href="https://github.com/TarekMESSAOUDI?tab=followers"><img src="https://img.shields.io/github/followers/TarekMESSAOUDI?label=Followers&style=social" alt="GitHub Badge"></a><br>
