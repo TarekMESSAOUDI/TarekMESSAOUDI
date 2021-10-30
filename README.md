@@ -24,7 +24,7 @@
 
 <section>
   <kbd>
-    <kbd><h1>Frameworks</h1></kbd>
+    <h1>Frameworks</h1>
     <br>
     <br>
     <a href="https://spring.io/projects/spring-boot"> 
