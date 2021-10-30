@@ -31,7 +31,7 @@
       <img width="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
     </a> 
     <a href="https://nodejs.org"> 
-      <img width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+      <img width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     </a>
     <a href="https://angular.io/"> 
       <img width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
