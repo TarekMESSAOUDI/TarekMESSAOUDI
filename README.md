@@ -58,11 +58,6 @@
       <a href="https://www.w3schools.com/javaScript/"> 
        <img width="30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
       </a>
-    
-    
-    
-    
-    
     </kbd>
   
   
