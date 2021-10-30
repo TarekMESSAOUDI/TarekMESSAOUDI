@@ -1,4 +1,4 @@
-<a href="https://tarekmessaoudi.github.io/Portfolio/"><img border-color="red" position="center" width="100%" height="auto" src="https://github.com/TarekMESSAOUDI/Portfolio/blob/main/Capture.JPG" height="175px"/></a>
+<a href="https://tarekmessaoudi.github.io/Portfolio/" target="_blank"><img border-color="red" position="center" width="100%" height="auto" src="https://github.com/TarekMESSAOUDI/Portfolio/blob/main/Capture.JPG" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tarek</h1>
 <h3 align="center">I am a Software Engineer from Tunisia.</h3>
