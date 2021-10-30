@@ -41,12 +41,8 @@
 
 ## 📊 My Github Stats
 
-
-
-<br/>
-
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" 
+    <a href="https://github.com/TarekMESSAOUDI/github-readme-stats"><img alt="Tarek's Github Stats" 
        src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medamin20&show_icons=true&theme=radical)
