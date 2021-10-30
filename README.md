@@ -29,6 +29,7 @@
     <br>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img width="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a style="padding-right:8px;" href="https://angular.io/" target="_blank"> <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/> </a>
 
   </kbd>
   
@@ -37,9 +38,6 @@
     <kbd>Programing Languages</kbd>
     <br>
     <br>
-    <img width="30px" src="https://blog.oxiane.com/wp-content/uploads/2021/02/spring_boog_400x400.png" />
-    <img width="30px" src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ" />
-     <img width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
     </kbd>
   
   
@@ -47,11 +45,7 @@
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
-    <img width="30px" src="https://www.logiciels.pro/wp-content/uploads/2021/05/junit-avis-prix-alternatives-logiciel.webp" />
-    <img width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
-    <img width="30px" src="https://static.wixstatic.com/media/277f7d_baeb89dc948f42778d5699d68aa6aa7f~mv2.png/v1/fit/w_256%2Ch_256%2Cal_c/file.png" />
-     <img width="30px" src="https://store-images.s-microsoft.com/image/apps.47025.3c23edf5-06df-4012-ac0e-eb23e28266c1.71249308-9e87-41f5-9106-5927d57ad492.5203162d-37c3-4389-8df2-623d76a2160e" />
+   
     </kbd>
  
 </section>
