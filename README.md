@@ -106,6 +106,9 @@
       <a href="https://www.docker.com/"> 
         <img width="40px" height="40px" src="https://cdn.1min30.com/wp-content/uploads/2018/04/Logo-Docker.jpg"/> 
       </a>
+      <a href="https://www.star.com/"> 
+        <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png"/> 
+      </a>
     </kbd>
  
 </section>
