@@ -43,8 +43,8 @@
       <img width="40px" src="https://img.icons8.com/color/48/000000/symfony.png"/> 
     </a>
   </kbd>
-  
-  
+</section> 
+<section> 
   <kbd>
     <kbd>Programing Languages</kbd>
     <br>
@@ -80,8 +80,8 @@
         <img width="40px"src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
       </a>
     </kbd>
-  
-  
+</section>  
+<section>  
   <kbd>
     <kbd>Tools</kbd>
     <br>
