@@ -44,6 +44,8 @@
     </a>
   </kbd>
 </section> 
+    <br>
+    <br>
 <section> 
   <kbd>
     <kbd>Programing Languages</kbd>
@@ -80,7 +82,9 @@
         <img width="40px"src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
       </a>
     </kbd>
-</section>  
+</section> 
+    <br>
+    <br>
 <section>  
   <kbd>
     <kbd>Tools</kbd>
