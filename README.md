@@ -52,9 +52,17 @@
       <a href="https://www.w3schools.com/html/"> 
         <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> 
       </a>
-     <a href="https://www.w3schools.com/css/"> 
-       <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-    </a> 
+      <a href="https://www.w3schools.com/css/"> 
+       <img width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+      </a> 
+      <a href="https://www.w3schools.com/javaScript/"> 
+       <img width="30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+      </a>
+    
+    
+    
+    
+    
     </kbd>
   
   
