@@ -27,7 +27,7 @@
     <kbd>Frameworks</kbd>
     <br>
     <br>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <a target="_blank" href="https://spring.io/projects/spring-boot" target="_blank"> 
       <img width="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
     </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> 
