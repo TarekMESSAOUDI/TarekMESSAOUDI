@@ -45,7 +45,6 @@
   </kbd>
 </section> 
     <br>
-    <br>
 <section> 
   <kbd>
     <kbd>Programing Languages</kbd>
@@ -83,7 +82,6 @@
       </a>
     </kbd>
 </section> 
-    <br>
     <br>
 <section>  
   <kbd>
