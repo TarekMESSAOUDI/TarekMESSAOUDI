@@ -34,13 +34,13 @@
       <img width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
     </a>
     <a href="https://angular.io/"> 
-      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/> 
+      <img width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
     </a>
     <a href="https://dotnet.microsoft.com/"> 
       <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> 
     </a>
     <ahref="https://symfony.com/"> 
-      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg"/> 
+      <img width="30px" src="https://img.icons8.com/color/48/000000/symfony.png"/> 
     </a>
   </kbd>
   
