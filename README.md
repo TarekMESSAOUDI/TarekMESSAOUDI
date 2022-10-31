@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am a software engineering student
+- 🔭 I am a software engineering
 
 - 🌱 I am currently studying at **[Esprit](https://esprit.tn/)**
 
