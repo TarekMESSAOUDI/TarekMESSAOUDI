@@ -109,9 +109,6 @@
       <a href="https://www.star.com/"> 
         <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png"/> 
       </a>
-      <a href="https://www.star.com/"> 
-        <img width="40px" height="40px" src="https://lh3.googleusercontent.com/proxy/xkmlS6YKHQe3JBQ7ycFSEHo5jMaTcUe1g-Fm3IGmGlKqHxL7fIhJct8VSy8WM1PQpRAJP19e4Y2zAmPo4U8zRBdu04aTEjguXOJvpG7fLMEwlWfus0Uy1cK5qCtyThRvLw4DOaPKefdL9ns5UmLlr7KD5rx87Q"/> 
-      </a>
 </section>
 
 <br/>
