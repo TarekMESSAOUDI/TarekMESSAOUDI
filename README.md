@@ -14,7 +14,7 @@
 
 -  I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://tarekmessaoudi.github.io/Portfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://tarekmessaoudi.github.io/portfolio/)**
 
 - 📫 How to reach me **Tarek.messaoudi@esprit.tn**
 
