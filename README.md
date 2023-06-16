@@ -7,8 +7,10 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I am a software engineering
+  
+- 🌱 I am currenty have a job with **[Medianet]**
 
-- 🌱 I am currently studying at **[Esprit](https://esprit.tn/)**
+- 🌱 I studyed at **[Esprit](https://esprit.tn/)**
 
 - 👯 I studied in **[ISET Radès](http://www.universite.tn/Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-rades.html)**
 
