@@ -29,8 +29,8 @@
     <kbd>Frameworks</kbd>
     <br>
     <br>
-    <a href="https://laravel.io"> 
-      <img width="40px" src="https://img.icons8.com/color/48/000000/laravel-logo.png"/> 
+    <a href="https://laravel.com"> 
+      <img width="40px" src="https://img.icons8.com/laravel"/> 
     </a> 
     <a href="https://nodejs.org"> 
       <img width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
@@ -38,11 +38,8 @@
     <a href="https://angular.io/"> 
       <img width="40px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
     </a>
-    <a href="https://dotnet.microsoft.com/"> 
-      <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> 
-    </a>
-    <ahref="https://symfony.com/"> 
-      <img width="40px" src="https://img.icons8.com/color/48/000000/symfony.png"/> 
+    <a href="https://bootstrap.io"> 
+      <img width="40px" src="https://img.icons8.com/bootstrap"/>
     </a>
   </kbd>
 </section> 
@@ -64,23 +61,8 @@
       <a href="https://www.w3schools.com/javaScript/"> 
         <img width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
       </a>
-      <a href="https://www.java.com"> 
-        <img width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
-      </a>
-      <a href="https://www.python.org"> 
-        <img width="40px" src="https://img.icons8.com/color/48/000000/python.png"/>
-      </a>
-      <a href="https://www.mysql.com/"> 
-        <img width="40px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
-      </a>
       <a href="https://www.php.net/"> 
         <img width="40px" src="https://img.icons8.com/color/48/000000/php.png"/>
-      </a>
-      <a href="https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c"> 
-        <img width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
-      </a>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> 
-        <img width="40px"src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
       </a>
     </kbd>
 </section> 
@@ -89,10 +71,7 @@
   <kbd>
     <kbd>Tools</kbd>
     <br>
-    <br>
-      <a href="https://getbootstrap.com"> 
-        <img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-      </a>   
+    <br> 
       <a href="https://postman.com"> 
         <img width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
       </a>   
@@ -107,9 +86,6 @@
       </a>
       <a href="https://www.docker.com/"> 
         <img width="40px" height="40px" src="https://cdn.1min30.com/wp-content/uploads/2018/04/Logo-Docker.jpg"/> 
-      </a>
-      <a href="https://www.star.com/"> 
-        <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png"/> 
       </a>
 </section>
 
