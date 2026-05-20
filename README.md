@@ -8,7 +8,7 @@
 
 - 🔭 I am a software engineering
   
-- 🌱 I am currenty have a job with **[Medianet]**
+- 🌱 I am currenty have a job with **[BigDeal](https://clubprivileges.app/)**
 
 - 🌱 I studyed at **[Esprit](https://esprit.tn/)**
 
