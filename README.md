@@ -29,10 +29,9 @@
     <kbd>Frameworks</kbd>
     <br>
     <br>
-    <!-- <a href="https://spring.io/projects/spring-boot"> 
-      <img width="40px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
-    </a>  -->
-    Laravel
+    <a href="https://laravel.io"> 
+      <img width="40px" src="https://img.icons8.com/color/48/000000/laravel-logo.png"/> 
+    </a> 
     <a href="https://nodejs.org"> 
       <img width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     </a>
